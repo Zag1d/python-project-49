@@ -3,3 +3,6 @@
 
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/94ed5be08fd906e44dcd/maintainability)](https://codeclimate.com/github/Zag1d/python-project-49/maintainability)
+
+
+https://asciinema.org/a/fZ1YyITpujVJUpWj2r73E5jt1
